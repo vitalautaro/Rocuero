@@ -12,7 +12,6 @@
 header {
   background-color: rgb(101, 78, 146);
 }
-
 header img {
   border-radius: 10px;
   height: 200px;
@@ -190,6 +189,4 @@ footer {
     width: 320px;
     padding: 12px;
   }
-} 
-
-/*# sourceMappingURL=style.css.map */
+}/*# sourceMappingURL=style.css.map */
