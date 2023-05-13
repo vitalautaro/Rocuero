@@ -1,0 +1,111 @@
+.mapadegoogle{padding-left: 580px;}
+
+
+.explicado{text-align: center;}
+
+.formulario{
+    text-align: center;
+}
+.formulario span {background-color: bisque;
+    padding: 20px;
+    border-radius: 30px;
+    border-style: double;
+    border-color: black;
+font-size: 60px;}
+
+.fotopri div  :hover{ transition: ease-in;
+    transform: scale(105%)}
+ .fotopri { 
+   display: grid;
+grid-template-columns: 1fr 1fr 1fr;
+    
+}
+.fotopri div img  { 
+    border-radius: 30px;
+    width: 600px;
+    height: 600px;
+  
+}
+
+
+
+
+.expli2{ background-color: bisque;
+font-size: 90px;
+border-radius: 30px;
+border-style: groove;
+border-color: black;
+padding: 10px;
+font-family: 'Source Sans Pro', sans-serif;
+}
+.expli4{background-color: bisque;
+border-radius: 30px;
+border-color: black;
+border-style: groove;
+padding: 5px; }
+
+
+.explicado3{background-color: bisque;
+border-radius: 10px;
+padding: 5px;
+font-size: 31px;
+font-family: 'Source Sans Pro', sans-serif;}
+
+
+
+
+
+h5 span {background-color: bisque;
+border-radius: 10px;
+border-style: groove;
+border-color: black;
+padding: 5px;
+font-size: 20px;}
+
+  .colorhe{text-decoration: none;
+    font-size: large;
+    font-weight: 630;
+list-style: none;
+color: black;
+display: flex;
+flex-direction: row;
+flex-wrap: wrap;
+}
+.futerpalabra {font-size: 30px;
+font-family: Arial, Helvetica, sans-serif;
+border: rgb(108, 155, 207);
+border-style: inherit;
+border-radius: 5px;
+padding: 10px;
+background-color: rgb(108, 155, 207);}
+
+
+
+
+    
+
+
+.articulos{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    margin-left: 150px;
+    gap: 20px;
+    text-align: center;   
+    
+ 
+}
+.articulos div img:hover{ transform: scale(103%);
+
+}
+.articulos div img{
+    border-radius: 30px;
+    width: 600px;
+    height: 600px;
+    
+}
+
+
+.gps{
+    width: 800px;
+    height: 600px;
+    }

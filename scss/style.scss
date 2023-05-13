@@ -1,0 +1,36 @@
+@import "header";
+
+@import "body";
+
+@import "main";
+
+@import "footer";
+
+
+
+
+@media (max-width: 400px) {
+    #logo{
+        height: 90px;
+        width: 90px;
+    }
+    .expli2{font-size:x-large ;}
+    .explicado3{font-size: medium;}
+.fotopri{
+    grid-template-columns: auto;
+    justify-content: center;
+}
+    body section h2{ font-size:medium;
+        
+    }
+    .articulos{grid-template-columns: auto;
+    margin: auto;}
+    body section h3{
+        font-size: small;
+    }
+    #foto { height: 320px; 
+        width: 320px;
+        padding: 12px;
+}
+
+}
