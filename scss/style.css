@@ -119,6 +119,18 @@ h5 span {
   background-color: rgb(108, 155, 207);
 }
 
+h4 {
+  text-align: center;
+}
+
+h4 span {
+  background-color: bisque;
+  border-color: black;
+  border-style: groove;
+  border-radius: 10px;
+  padding: 5px;
+}
+
 .articulos {
   display: grid;
   grid-template-columns: 1fr 1fr;
