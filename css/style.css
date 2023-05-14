@@ -90,6 +90,14 @@ body {
   font-family: "Source Sans Pro", sans-serif;
 }
 
+#textoarea {
+  resize: none;
+  border: black;
+  border-style: groove;
+  border-color: black;
+  border-radius: 5px;
+}
+
 h5 span {
   background-color: bisque;
   border-radius: 10px;
@@ -176,6 +184,12 @@ footer {
   #logo {
     height: 90px;
     width: 90px;
+  }
+  .mapadegoogle {
+    padding-left: 0px;
+  }
+  #contacto span {
+    font-size: small;
   }
   .expli2 {
     font-size: x-large;
